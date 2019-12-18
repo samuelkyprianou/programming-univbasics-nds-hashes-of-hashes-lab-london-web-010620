@@ -34,7 +34,7 @@ def naming_system
   life = {
     label: "Kingdom",
     sub_category: {
-      label : "Phylem",
+      label: "Phylem",
       sub_category: {
         label: "Class",
         sub_category: {
